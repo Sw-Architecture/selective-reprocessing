@@ -1,5 +1,6 @@
 
 # Selective reprocessing mechanism testing enviroment
+[![DOI](https://zenodo.org/badge/812399225.svg)](https://doi.org/10.5281/zenodo.17697510)
 
 ## Purpose of this kit
 
